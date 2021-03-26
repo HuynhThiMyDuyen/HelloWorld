@@ -1,8 +1,11 @@
-PHÂN CÔNG NHIỆM VỤ
+# PHÂN CÔNG NHIỆM VỤ
 
-1. Huỳnh Thị Mỹ Duyên: Quay video minh họa các thao tác với tập lệnh của git và format bản báo cáo.
-2. Nguyễn Huỳnh Thanh Trúc: Tìm hiểu về chương 1: Giới thiệu về git & github
-3. Nguyễn Thị Thảo Hồng: Tìm hiểu về chương 2: Các tập lệnh cơ bản
-4. Phạm Lê Dịu Ái: Tìm hiểu về chương 3: Lợi ích của github, chương 4: Tổng kết và format bản báo cáo.
+| STT | MSSV | Họ và Tên | Nhiem vu |
+|:---:|:---:|:---:|:---:|
+| 1 | 19521438 | Huỳnh Thị Mỹ Duyên | VideoDemo + Format bao cao|
+| 2 | 20520368 | Phạm Lê Dịu Ái | Chuong 3 + 4 + Format bao cao |
+| 3 | 20520192 | Nguyễn Thị Thảo Hồng | Chuong 2|
+| 4 | 19520314 | Nguyễn Huỳnh Thanh Trúc | Chuong 1 |
 
 Link VideoDemo: https://drive.google.com/file/d/160zQTFCjrhYVjPagTyzASiZ2DPT_N0Ef/view?usp=sharing
+
