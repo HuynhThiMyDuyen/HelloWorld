@@ -30,4 +30,4 @@
 1. Week 1: [Giới thiệu nhóm](https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Week01-Introduce)
 2. Week 2: [Git](https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Week02-Git)
 3. Week 3: [Solve Conflicts](https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Week03-SolveConflicts)
-4. Giữa kỳ: [Nộp đồ án lần 1]()
+4. Giữa kỳ: [Nộp đồ án lần 1](https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Bao-Cao-Lan-1)
