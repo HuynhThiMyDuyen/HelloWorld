@@ -16,7 +16,7 @@
 
 ### NỘI DUNG
 <a name="quatrinh"></a>
-1. [Bản báo cáo word] (https://drive.google.com/file/d/1olzrSV7AizaXVa6EEOoyOdFxJS_K99J9/view?usp=sharing)
-2. [Bản thuyết trình powerpoint] (https://drive.google.com/file/d/1hPygzsDpvuCiAg2wwMtDM-K6GKZ0BjGs/view?usp=sharing)
-3. [Video] (https://drive.google.com/file/d/1AK_m5dH72_p3JAxlXp2GSIZeincFxidd/view?usp=sharing)
-4. [Bộ câu hỏi] (https://drive.google.com/file/d/1aevSMm6b-z4vUjEDeXcv4xW3rspwYGWE/view?usp=sharing)
+1. [Bản báo cáo word](https://drive.google.com/file/d/1olzrSV7AizaXVa6EEOoyOdFxJS_K99J9/view?usp=sharing)
+2. [Bản thuyết trình powerpoint](https://drive.google.com/file/d/1hPygzsDpvuCiAg2wwMtDM-K6GKZ0BjGs/view?usp=sharing)
+3. [Video](https://drive.google.com/file/d/1AK_m5dH72_p3JAxlXp2GSIZeincFxidd/view?usp=sharing)
+4. [Bộ câu hỏi](https://drive.google.com/file/d/1aevSMm6b-z4vUjEDeXcv4xW3rspwYGWE/view?usp=sharing)
