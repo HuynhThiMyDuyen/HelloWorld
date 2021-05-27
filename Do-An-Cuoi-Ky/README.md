@@ -16,7 +16,7 @@
 
 ### NỘI DUNG
 <a name="quatrinh"></a>
-1. [Bản báo cáo word] (https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Week01-Introduce)
-2. [Bản thuyết trình powerpoint] (https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Week02-Git)
-3. [Video] (https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Week03-SolveConflicts)
-4. [Bộ câu hỏi] (https://github.com/HuynhThiMyDuyen/SS004.L25-Group05/tree/main/Bao-Cao-Lan-1)
+1. [Bản báo cáo word] (https://drive.google.com/file/d/1olzrSV7AizaXVa6EEOoyOdFxJS_K99J9/view?usp=sharing)
+2. [Bản thuyết trình powerpoint] (https://drive.google.com/file/d/1hPygzsDpvuCiAg2wwMtDM-K6GKZ0BjGs/view?usp=sharing)
+3. [Video] (https://drive.google.com/file/d/1AK_m5dH72_p3JAxlXp2GSIZeincFxidd/view?usp=sharing)
+4. [Bộ câu hỏi] (https://drive.google.com/file/d/1aevSMm6b-z4vUjEDeXcv4xW3rspwYGWE/view?usp=sharing)
